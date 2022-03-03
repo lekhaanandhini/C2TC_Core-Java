@@ -22,7 +22,7 @@ public class Demo {
 			System.out.println(itr.next());
 		}*/
 		//Internal Iteration
-		list.forEach(i -> System.out.println(i));
+		list.forEach(i -> System.out.print(i));
 	}
 
 }

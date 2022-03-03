@@ -13,6 +13,8 @@ public class Hero implements Actor{
 		h.act();
 		h.speak();
 		h.comedy();
+	
+		
 
 	}
 
