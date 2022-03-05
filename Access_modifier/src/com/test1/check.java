@@ -1,0 +1,14 @@
+package com.test1;
+
+public class check {
+     public int i=10;
+     public void show() {
+    	  System.out.println("In show method");
+      }
+	public static void main(String[] args) {
+		check c = new check();
+		c.show();
+		System.out.println(c.i);
+	}
+
+}
